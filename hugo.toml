@@ -1,0 +1,4 @@
+baseURL = 'https://guggisbergsimon.github.io/'
+languageCode = 'en-us'
+title = 'Guggisberg Simon personal page'
+theme = 'ananke'
