@@ -4,16 +4,121 @@
     <title>Posts on Guggisberg Simon personal page</title>
     <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on Guggisberg Simon personal page</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 24 Sep 2024 12:10:38 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 24 Sep 2024 12:10:38 +0200</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Introduction</title>
       <link>http://localhost:1313/posts/introduction/</link>
       <pubDate>Tue, 24 Sep 2024 12:10:38 +0200</pubDate>
+      
       <guid>http://localhost:1313/posts/introduction/</guid>
-      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;Welcome to my personal page&lt;/p&gt;&#xA;&lt;p&gt;Expect more content to appear in the future soon(tm)&lt;/p&gt;&#xA;&lt;h2 id=&#34;about-me&#34;&gt;About me&lt;/h2&gt;&#xA;&lt;p&gt;Part-time student for a Bachelor in software engineering, I am driven by curiosity&#xA;and have a deep passion for &lt;em&gt;video game development&lt;/em&gt;.&lt;/p&gt;&#xA;&lt;h2 id=&#34;knowledge&#34;&gt;Knowledge&lt;/h2&gt;&#xA;&lt;h3 id=&#34;programming-languages&#34;&gt;Programming Languages&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;C&lt;/li&gt;&#xA;&lt;li&gt;C++&lt;/li&gt;&#xA;&lt;li&gt;C#&lt;/li&gt;&#xA;&lt;li&gt;Java&lt;/li&gt;&#xA;&lt;li&gt;Python&lt;/li&gt;&#xA;&lt;li&gt;Go&lt;/li&gt;&#xA;&lt;li&gt;Rust&lt;/li&gt;&#xA;&lt;li&gt;Js&lt;/li&gt;&#xA;&lt;li&gt;PhP&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;tools&#34;&gt;Tools&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Git/Github&lt;/li&gt;&#xA;&lt;li&gt;HTML/CSS&lt;/li&gt;&#xA;&lt;li&gt;Docker&lt;/li&gt;&#xA;&lt;li&gt;DBMS&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Couchbase&lt;/li&gt;&#xA;&lt;li&gt;ElasticSearch&lt;/li&gt;&#xA;&lt;li&gt;Neo4J&lt;/li&gt;&#xA;&lt;li&gt;PostgresSQL&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Infra/Cloud&#xA;&lt;ul&gt;&#xA;&lt;li&gt;AWS&lt;/li&gt;&#xA;&lt;li&gt;Kubernetes&lt;/li&gt;&#xA;&lt;li&gt;Google Cloud&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Game development&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Unity&lt;/li&gt;&#xA;&lt;li&gt;Godot&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;languages&#34;&gt;Languages&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;French&lt;/li&gt;&#xA;&lt;li&gt;English&lt;/li&gt;&#xA;&lt;li&gt;German&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;Welcome to my personal page&lt;/p&gt;
+&lt;p&gt;Expect more content to appear in the future soon(tm)&lt;/p&gt;
+&lt;h2 id=&#34;about-me&#34;&gt;About me&lt;/h2&gt;
+&lt;p&gt;Part-time student for a Bachelor in software engineering, I am driven by curiosity
+and have a deep passion for &lt;em&gt;video game development&lt;/em&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;knowledge&#34;&gt;Knowledge&lt;/h2&gt;
+&lt;h3 id=&#34;programming-languages&#34;&gt;Programming Languages&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;C&lt;/li&gt;
+&lt;li&gt;C++&lt;/li&gt;
+&lt;li&gt;C#&lt;/li&gt;
+&lt;li&gt;Java&lt;/li&gt;
+&lt;li&gt;Python&lt;/li&gt;
+&lt;li&gt;Go&lt;/li&gt;
+&lt;li&gt;Rust&lt;/li&gt;
+&lt;li&gt;Js&lt;/li&gt;
+&lt;li&gt;PhP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;tools&#34;&gt;Tools&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Git/Github&lt;/li&gt;
+&lt;li&gt;HTML/CSS&lt;/li&gt;
+&lt;li&gt;Docker&lt;/li&gt;
+&lt;li&gt;DBMS
+&lt;ul&gt;
+&lt;li&gt;Couchbase&lt;/li&gt;
+&lt;li&gt;ElasticSearch&lt;/li&gt;
+&lt;li&gt;Neo4J&lt;/li&gt;
+&lt;li&gt;PostgresSQL&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Infra/Cloud
+&lt;ul&gt;
+&lt;li&gt;AWS&lt;/li&gt;
+&lt;li&gt;Kubernetes&lt;/li&gt;
+&lt;li&gt;Google Cloud&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Game development
+&lt;ul&gt;
+&lt;li&gt;Unity&lt;/li&gt;
+&lt;li&gt;Godot&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;languages&#34;&gt;Languages&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;French&lt;/li&gt;
+&lt;li&gt;English&lt;/li&gt;
+&lt;li&gt;German&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <content>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;Welcome to my personal page&lt;/p&gt;
+&lt;p&gt;Expect more content to appear in the future soon(tm)&lt;/p&gt;
+&lt;h2 id=&#34;about-me&#34;&gt;About me&lt;/h2&gt;
+&lt;p&gt;Part-time student for a Bachelor in software engineering, I am driven by curiosity
+and have a deep passion for &lt;em&gt;video game development&lt;/em&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;knowledge&#34;&gt;Knowledge&lt;/h2&gt;
+&lt;h3 id=&#34;programming-languages&#34;&gt;Programming Languages&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;C&lt;/li&gt;
+&lt;li&gt;C++&lt;/li&gt;
+&lt;li&gt;C#&lt;/li&gt;
+&lt;li&gt;Java&lt;/li&gt;
+&lt;li&gt;Python&lt;/li&gt;
+&lt;li&gt;Go&lt;/li&gt;
+&lt;li&gt;Rust&lt;/li&gt;
+&lt;li&gt;Js&lt;/li&gt;
+&lt;li&gt;PhP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;tools&#34;&gt;Tools&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Git/Github&lt;/li&gt;
+&lt;li&gt;HTML/CSS&lt;/li&gt;
+&lt;li&gt;Docker&lt;/li&gt;
+&lt;li&gt;DBMS
+&lt;ul&gt;
+&lt;li&gt;Couchbase&lt;/li&gt;
+&lt;li&gt;ElasticSearch&lt;/li&gt;
+&lt;li&gt;Neo4J&lt;/li&gt;
+&lt;li&gt;PostgresSQL&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Infra/Cloud
+&lt;ul&gt;
+&lt;li&gt;AWS&lt;/li&gt;
+&lt;li&gt;Kubernetes&lt;/li&gt;
+&lt;li&gt;Google Cloud&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Game development
+&lt;ul&gt;
+&lt;li&gt;Unity&lt;/li&gt;
+&lt;li&gt;Godot&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;languages&#34;&gt;Languages&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;French&lt;/li&gt;
+&lt;li&gt;English&lt;/li&gt;
+&lt;li&gt;German&lt;/li&gt;
+&lt;/ul&gt;
+</content>
     </item>
+    
   </channel>
 </rss>
