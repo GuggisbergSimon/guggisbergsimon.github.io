@@ -1,124 +1,46 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Posts on Guggisberg Simon personal page</title>
-    <link>http://localhost:1313/posts/</link>
-    <description>Recent content in Posts on Guggisberg Simon personal page</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 24 Sep 2024 12:10:38 +0200</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Introduction</title>
-      <link>http://localhost:1313/posts/introduction/</link>
-      <pubDate>Tue, 24 Sep 2024 12:10:38 +0200</pubDate>
-      
-      <guid>http://localhost:1313/posts/introduction/</guid>
-      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
-&lt;p&gt;Welcome to my personal page&lt;/p&gt;
-&lt;p&gt;Expect more content to appear in the future soon(tm)&lt;/p&gt;
-&lt;h2 id=&#34;about-me&#34;&gt;About me&lt;/h2&gt;
-&lt;p&gt;Part-time student for a Bachelor in software engineering, I am driven by curiosity
-and have a deep passion for &lt;em&gt;video game development&lt;/em&gt;.&lt;/p&gt;
-&lt;h2 id=&#34;knowledge&#34;&gt;Knowledge&lt;/h2&gt;
-&lt;h3 id=&#34;programming-languages&#34;&gt;Programming Languages&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;C&lt;/li&gt;
-&lt;li&gt;C++&lt;/li&gt;
-&lt;li&gt;C#&lt;/li&gt;
-&lt;li&gt;Java&lt;/li&gt;
-&lt;li&gt;Python&lt;/li&gt;
-&lt;li&gt;Go&lt;/li&gt;
-&lt;li&gt;Rust&lt;/li&gt;
-&lt;li&gt;Js&lt;/li&gt;
-&lt;li&gt;PhP&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;tools&#34;&gt;Tools&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Git/Github&lt;/li&gt;
-&lt;li&gt;HTML/CSS&lt;/li&gt;
-&lt;li&gt;Docker&lt;/li&gt;
-&lt;li&gt;DBMS
-&lt;ul&gt;
-&lt;li&gt;Couchbase&lt;/li&gt;
-&lt;li&gt;ElasticSearch&lt;/li&gt;
-&lt;li&gt;Neo4J&lt;/li&gt;
-&lt;li&gt;PostgresSQL&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Infra/Cloud
-&lt;ul&gt;
-&lt;li&gt;AWS&lt;/li&gt;
-&lt;li&gt;Kubernetes&lt;/li&gt;
-&lt;li&gt;Google Cloud&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Game development
-&lt;ul&gt;
-&lt;li&gt;Unity&lt;/li&gt;
-&lt;li&gt;Godot&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;languages&#34;&gt;Languages&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;French&lt;/li&gt;
-&lt;li&gt;English&lt;/li&gt;
-&lt;li&gt;German&lt;/li&gt;
-&lt;/ul&gt;</description>
-      <content>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
-&lt;p&gt;Welcome to my personal page&lt;/p&gt;
-&lt;p&gt;Expect more content to appear in the future soon(tm)&lt;/p&gt;
-&lt;h2 id=&#34;about-me&#34;&gt;About me&lt;/h2&gt;
-&lt;p&gt;Part-time student for a Bachelor in software engineering, I am driven by curiosity
-and have a deep passion for &lt;em&gt;video game development&lt;/em&gt;.&lt;/p&gt;
-&lt;h2 id=&#34;knowledge&#34;&gt;Knowledge&lt;/h2&gt;
-&lt;h3 id=&#34;programming-languages&#34;&gt;Programming Languages&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;C&lt;/li&gt;
-&lt;li&gt;C++&lt;/li&gt;
-&lt;li&gt;C#&lt;/li&gt;
-&lt;li&gt;Java&lt;/li&gt;
-&lt;li&gt;Python&lt;/li&gt;
-&lt;li&gt;Go&lt;/li&gt;
-&lt;li&gt;Rust&lt;/li&gt;
-&lt;li&gt;Js&lt;/li&gt;
-&lt;li&gt;PhP&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;tools&#34;&gt;Tools&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Git/Github&lt;/li&gt;
-&lt;li&gt;HTML/CSS&lt;/li&gt;
-&lt;li&gt;Docker&lt;/li&gt;
-&lt;li&gt;DBMS
-&lt;ul&gt;
-&lt;li&gt;Couchbase&lt;/li&gt;
-&lt;li&gt;ElasticSearch&lt;/li&gt;
-&lt;li&gt;Neo4J&lt;/li&gt;
-&lt;li&gt;PostgresSQL&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Infra/Cloud
-&lt;ul&gt;
-&lt;li&gt;AWS&lt;/li&gt;
-&lt;li&gt;Kubernetes&lt;/li&gt;
-&lt;li&gt;Google Cloud&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Game development
-&lt;ul&gt;
-&lt;li&gt;Unity&lt;/li&gt;
-&lt;li&gt;Godot&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;languages&#34;&gt;Languages&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;French&lt;/li&gt;
-&lt;li&gt;English&lt;/li&gt;
-&lt;li&gt;German&lt;/li&gt;
-&lt;/ul&gt;
-</content>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Guggisberg Simon personal page</title><link>https://guggisbergsimon.github.io/posts/</link><description>Recent content in Posts on Guggisberg Simon personal page</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 24 Sep 2025 12:10:38 +0200</lastBuildDate><atom:link href="https://guggisbergsimon.github.io/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Introduction</title><link>https://guggisbergsimon.github.io/posts/introduction/</link><pubDate>Wed, 24 Sep 2025 12:10:38 +0200</pubDate><guid>https://guggisbergsimon.github.io/posts/introduction/</guid><description>&lt;h2 id="about-me"&gt;About me&lt;/h2&gt;
+&lt;p&gt;Recently graduated from the &lt;a href="https://heig-vd.ch"&gt;HEIG-VD&lt;/a&gt; with a Bachelor in Software Engineering.&lt;/p&gt;
+&lt;p&gt;I am driven by curiosity and have a deep passion for the myriad facets of &lt;em&gt;video game developement&lt;/em&gt;.
+Be it the technical challenges or the UX ones.&lt;/p&gt;
+&lt;p&gt;My Bachelor&amp;rsquo;s thesis focused on state of the art performance for 3D real time applications, namely, video games.
+The work was written in French and has earned &lt;a href="https://en.wikipedia.org/wiki/Academic_grading_in_Switzerland"&gt;the highest possible grading&lt;/a&gt; (6/6).
+It can be found publicly &lt;a href="https://github.com/GuggisbergSimon/HEIG-VD-TB"&gt;On my GitHub&lt;/a&gt;.&lt;/p&gt;</description><content>&lt;h2 id="about-me"&gt;About me&lt;/h2&gt;
+&lt;p&gt;Recently graduated from the &lt;a href="https://heig-vd.ch"&gt;HEIG-VD&lt;/a&gt; with a Bachelor in Software Engineering.&lt;/p&gt;
+&lt;p&gt;I am driven by curiosity and have a deep passion for the myriad facets of &lt;em&gt;video game developement&lt;/em&gt;.
+Be it the technical challenges or the UX ones.&lt;/p&gt;
+&lt;p&gt;My Bachelor&amp;rsquo;s thesis focused on state of the art performance for 3D real time applications, namely, video games.
+The work was written in French and has earned &lt;a href="https://en.wikipedia.org/wiki/Academic_grading_in_Switzerland"&gt;the highest possible grading&lt;/a&gt; (6/6).
+It can be found publicly &lt;a href="https://github.com/GuggisbergSimon/HEIG-VD-TB"&gt;On my GitHub&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Aside from computers I have an interest for Japan. Not only about its modern pop culture impact, but also its tradition, history, and martial arts.
+I&amp;rsquo;ve obtained a black belt in the &lt;a href="https://www.reighikan-dojo.ch/"&gt;Bodaïshinkan Ryu&lt;/a&gt; school, for japanese weapons.&lt;/p&gt;
+&lt;p&gt;I also hike in the beautiful Switzerland mountains, when time and mood strikes.&lt;/p&gt;
+&lt;h2 id="knowledge"&gt;Knowledge&lt;/h2&gt;
+&lt;h3 id="spoken-languages"&gt;Spoken Languages&lt;/h3&gt;
+&lt;p&gt;Despite not completing any English certificate past the B2 level, I use, and understand it, in a much more proefficient manner than German, which stands at the same certificate level.&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"&gt;&lt;code class="language-text" data-lang="text"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&amp;gt; grep languages /etc/spoken
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;English French (German)
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h3 id="programming-languages"&gt;Programming Languages&lt;/h3&gt;
+&lt;p&gt;While I&amp;rsquo;ve dabbled in many languages, low to high level, my preference goes to the higher ones, and strongly typed at that.
+Those two characteristics smoothens the process of adding programming structures.
+If the language offers a functional paradigm, it makes it all the better.&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"&gt;&lt;code class="language-text" data-lang="text"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&amp;gt; grep languages /etc/code
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;C C++ C# Java Kotlin
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;Go Python Rust Scala Haskell
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;JS PHP HTML/CSS
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h3 id="tools"&gt;Tools&lt;/h3&gt;
+&lt;p&gt;This list is but a glance at the many tools I&amp;rsquo;ve had the occasion to work for.
+Some only for smaller projects, some for far more complex ones, like Unity, during my time at MindMaze.&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"&gt;&lt;code class="language-text" data-lang="text"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&amp;gt; grep tools /etc/code
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;[Version Control]
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;Git GitHub GitLab Bitbucket
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;[Containers]
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;Docker
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;[Frameworks]
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;Quarkus Bootstrap React
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;[DBMS]
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;Couchbase ElasticSearch Neo4J PostgreSQL
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;[Infra / Cloud]
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;Kubernetes AWS Google Cloud
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;[Game Dev]
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;Unity Godot Blender
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</content></item></channel></rss>
