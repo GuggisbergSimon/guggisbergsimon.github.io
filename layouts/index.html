@@ -1,28 +1,21 @@
 {{ define "main" }}
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>{{ .Site.Title }}</title>
-    <link rel="stylesheet" href="/css/styles.css">
-</head>
-<body>
-
 <header>
     <h1>{{ .Site.Title }}</h1>
     <p>{{ .Site.Params.tagline }}</p>
 </header>
 
 <section>
-    <h2>Welcome to my personal page !</h2>
-    <p>Expect more content to appear in the future soon(tm)</p>
+    <ul>
+        <li>Software Engineer from <a href="https://heig-vd.ch">HEIG-VD</a></li>
+        <li>Personal page ← You are here</li>
+        <li>Reach out on <a href="https://github.com/GuggisbergSimon">GitHub</a></li>
+        <li>Find me on <a href="https://www.linkedin.com/in/simon-guggisberg-122366200">LinkedIn</a></li>
+        <li>Play my games on <a href="https://strueux.itch.io">Itch</a></li>
+        <li><a href="{{ "posts/Introduction/" | relURL }}">Read more about me</a></li>
+    </ul>
 </section>
 
 <footer>
     <p>&copy; {{ now.Format "2006" }} {{ .Site.Title }}</p>
 </footer>
-
-</body>
-</html>
 {{ end }}
